@@ -1,0 +1,62 @@
+/*********************TAG SELECTOTRS**********************************/
+
+ body {
+   background-color: #cbf1f5;
+   color: black;
+   font-family: 'Sacramento', cursive;
+ }
+
+ h1 {
+     color: #035aa6;
+ }
+
+ h3 {
+     color: #035aa6;
+ }
+
+ /*********************CLASS SELECTORS***************************/
+
+.top-box {
+  font-size: 2.62rem;
+}
+
+.middle-box {
+  width: 50%;
+  margin: auto;
+  font-size: 1.62rem;
+}
+
+.footer {
+  width: 50%;
+  margin: auto;
+  font-size: 1.62rem;
+}
+
+.tedpic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+}
+
+
+a:hover {
+  color: #f40552;
+}
+
+.page2 {
+     font-size: 1.62rem;
+      width: 50%;
+      margin:100px auto 100px auto;
+      text-align: left;
+}
+
+.pics {
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+}
